@@ -1,0 +1,16 @@
+{
+  "name": "nodeservicebus3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^2.2.1-preview",
+    "azure-sb": "^0.10.5"
+  }
+}
